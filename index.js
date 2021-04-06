@@ -14,7 +14,7 @@ if (katzDeliLine.length === 0) {
 }
 
 }
-
+var line = [];
 function currentLine(katzDeliLine) {
   let i = 0;
   while (i < katzDeliLine.length) {
